@@ -1,0 +1,24 @@
+{
+  "name": "deferred-random-access",
+  "version": "0.0.0",
+  "description": "A random-access instance that wraps another instance that is created async",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.1",
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/deferred-random-access.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/deferred-random-access/issues"
+  },
+  "homepage": "https://github.com/mafintosh/deferred-random-access"
+}
