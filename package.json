@@ -1,6 +1,6 @@
 {
   "name": "deferred-random-access",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A random-access instance that wraps another instance that is created async",
   "main": "index.js",
   "dependencies": {},
